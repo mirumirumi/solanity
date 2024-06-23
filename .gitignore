@@ -1,3 +1,4 @@
 ./src/release/*
 src/release/*
 src/release
+*.deb
