@@ -1,3 +1,5 @@
+// https://note.com/zacky0830/n/n0344689eb30d
+
 #ifndef VANITY_CONFIG
 #define VANITY_CONFIG
 
